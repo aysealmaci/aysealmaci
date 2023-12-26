@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everyone I'm Ayşe 👋 
+🔭 I'm 4th year computer engineering student at Ted University
+
+✨ I develop cross platform apps with Flutter.  
+
+🌱 Also I’m interested in artificial intelligence
+
 
 <!--
 **aysealmaci/aysealmaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
