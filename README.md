@@ -5,7 +5,7 @@
 
 🌱 Also I’m interested in artificial intelligence
 
-⚡ Medium: https://medium.com/@aysealmaci 
+⚡ My Medium Account: https://medium.com/@aysealmaci
 
 
 <!--
