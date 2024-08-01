@@ -1,5 +1,5 @@
 ### Hi everyone I'm Ayşe 👋 
-🔭 I'm 4th year computer engineering student at Ted University
+🔭 I'm computer engineer graduated from Ted University
 
 ✨ I develop cross platform apps with Flutter.  
 
